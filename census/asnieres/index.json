@@ -40,18 +40,18 @@
    "year": "1931",
    "epoch": "1931",
    "stats": {
-    "rue": 9703,
-    "adresse": 23550,
-    "inconnue": 14559,
+    "rue": 10093,
+    "adresse": 23623,
+    "inconnue": 14612,
     "interpolée": 5258,
-    "ambiguë": 453,
+    "ambiguë": 461,
     "unite": "personne",
-    "lignes": 53523,
-    "lignes_avec_batiment": 26100,
-    "personnes": 53523,
-    "personnes_avec_batiment": 26100,
-    "avec_batiment": 26100,
-    "habitants": 53523
+    "lignes": 54047,
+    "lignes_avec_batiment": 26163,
+    "personnes": 54047,
+    "personnes_avec_batiment": 26163,
+    "avec_batiment": 26163,
+    "habitants": 54047
    }
   }
  ]
