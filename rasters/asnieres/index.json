@@ -1,0 +1,94 @@
+{
+ "1835": {
+  "url": "rasters/asnieres/1835.webp",
+  "coordinates": [
+   [
+    2.2622905,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9005081
+   ],
+   [
+    2.2622905,
+    48.9005081
+   ]
+  ],
+  "source": "Archives départementales des Hauts-de-Seine, feuilles cadastrales géoréférencées",
+  "resolution_m": 1.5
+ },
+ "1812": {
+  "url": "rasters/asnieres/1812.webp",
+  "coordinates": [
+   [
+    2.2622905,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9005081
+   ],
+   [
+    2.2622905,
+    48.9005081
+   ]
+  ],
+  "source": "Archives départementales des Hauts-de-Seine, feuilles cadastrales géoréférencées",
+  "resolution_m": 1.5
+ },
+ "1854-1855": {
+  "url": "rasters/asnieres/1854-1855.webp",
+  "coordinates": [
+   [
+    2.2622905,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9005081
+   ],
+   [
+    2.2622905,
+    48.9005081
+   ]
+  ],
+  "source": "Archives départementales des Hauts-de-Seine, feuilles cadastrales géoréférencées",
+  "resolution_m": 1.5
+ },
+ "1931": {
+  "url": "rasters/asnieres/1931.webp",
+  "coordinates": [
+   [
+    2.2622905,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9356083
+   ],
+   [
+    2.3247189,
+    48.9005081
+   ],
+   [
+    2.2622905,
+    48.9005081
+   ]
+  ],
+  "source": "Archives départementales des Hauts-de-Seine, feuilles cadastrales géoréférencées",
+  "resolution_m": 1.5
+ }
+}

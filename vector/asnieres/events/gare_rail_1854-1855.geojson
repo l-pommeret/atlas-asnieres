@@ -1,0 +1,622 @@
+{
+  "type": "FeatureCollection",
+  "name": "evenement_1838_traces_ferroviaires_1854_1855",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.281171,
+            48.90734
+          ],
+          [
+            2.281927,
+            48.906821
+          ],
+          [
+            2.282229,
+            48.906627
+          ],
+          [
+            2.282384,
+            48.906523
+          ],
+          [
+            2.282949,
+            48.906147
+          ],
+          [
+            2.283137,
+            48.906029
+          ],
+          [
+            2.283696,
+            48.905699
+          ],
+          [
+            2.284263,
+            48.905377
+          ],
+          [
+            2.284637,
+            48.905154
+          ],
+          [
+            2.284744,
+            48.905088
+          ],
+          [
+            2.285041,
+            48.904905
+          ],
+          [
+            2.285288,
+            48.904754
+          ],
+          [
+            2.28533,
+            48.904729
+          ],
+          [
+            2.285347,
+            48.904719
+          ],
+          [
+            2.285738,
+            48.904495
+          ],
+          [
+            2.285738,
+            48.904495
+          ],
+          [
+            2.285915,
+            48.904393
+          ],
+          [
+            2.286453,
+            48.904091
+          ],
+          [
+            2.286788,
+            48.903899
+          ],
+          [
+            2.287366,
+            48.90356
+          ],
+          [
+            2.287983,
+            48.903203
+          ],
+          [
+            2.288465,
+            48.902918
+          ]
+        ]
+      },
+      "properties": {
+        "class": "chemin_de_fer",
+        "epoch": "1854-1855",
+        "section": "E",
+        "validation": "valide",
+        "source_ids": [
+          "ASN_1854-1855_E_F001",
+          "E3_F01"
+        ],
+        "source_sheets": [
+          "E3"
+        ],
+        "description": "axe ferroviaire vers le pont",
+        "mode_raccordement": "trace_valide_conserve",
+        "id": "ASN_1854-1855_E_F001",
+        "source_sections": [
+          "E"
+        ],
+        "stroke": "#34383A",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "modern_reference_id": "chemin_de_fer:5fe8bce6-6667-11e3-81ff-01f464e0362d:0",
+        "modern_alignment_method": "auto_sncf_match",
+        "modern_alignment_status": "proposed_historical_continuity",
+        "event_id": "gare",
+        "source_epoch": "1854-1855",
+        "event_date": 1838,
+        "trace_status": "valide",
+        "provenance": "GeoJSON final 1854-1855 : géométrie ultérieure, non restitution exacte de 1838",
+        "event_overlay_validation": "valide_par_utilisateur"
+      },
+      "id": "ASN_1854-1855_E_F001"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.281378,
+            48.906379
+          ],
+          [
+            2.281471,
+            48.906355
+          ],
+          [
+            2.281643,
+            48.906307
+          ],
+          [
+            2.281726,
+            48.90628
+          ],
+          [
+            2.281903,
+            48.906223
+          ],
+          [
+            2.282322,
+            48.90607
+          ],
+          [
+            2.282915,
+            48.905851
+          ],
+          [
+            2.283798,
+            48.905528
+          ],
+          [
+            2.284102,
+            48.905412
+          ],
+          [
+            2.284288,
+            48.90533
+          ],
+          [
+            2.284461,
+            48.905245
+          ],
+          [
+            2.284692,
+            48.905126
+          ],
+          [
+            2.285286,
+            48.904755
+          ]
+        ]
+      },
+      "properties": {
+        "class": "chemin_de_fer",
+        "epoch": "1854-1855",
+        "section": "E",
+        "validation": "valide",
+        "source_ids": [
+          "ASN_1854-1855_E_F002",
+          "E3_F02"
+        ],
+        "source_sheets": [
+          "E3"
+        ],
+        "description": "embranchement ferroviaire ouest",
+        "mode_raccordement": "trace_valide_conserve",
+        "id": "ASN_1854-1855_E_F002",
+        "source_sections": [
+          "E"
+        ],
+        "stroke": "#34383A",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "modern_reference_id": "chemin_de_fer:5fd6895a-6667-11e3-81ff-01f464e0362d:0",
+        "modern_alignment_method": "auto_sncf_match",
+        "modern_alignment_status": "proposed_historical_continuity",
+        "event_id": "gare",
+        "source_epoch": "1854-1855",
+        "event_date": 1838,
+        "trace_status": "valide",
+        "provenance": "GeoJSON final 1854-1855 : géométrie ultérieure, non restitution exacte de 1838",
+        "event_overlay_validation": "valide_par_utilisateur"
+      },
+      "id": "ASN_1854-1855_E_F002"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.27291,
+            48.913368
+          ],
+          [
+            2.272996,
+            48.91329
+          ],
+          [
+            2.273293,
+            48.913022
+          ],
+          [
+            2.273518,
+            48.912841
+          ],
+          [
+            2.273871,
+            48.912584
+          ],
+          [
+            2.274203,
+            48.912333
+          ],
+          [
+            2.274365,
+            48.912219
+          ],
+          [
+            2.274365,
+            48.912219
+          ],
+          [
+            2.274844,
+            48.911881
+          ],
+          [
+            2.275332,
+            48.911534
+          ],
+          [
+            2.275707,
+            48.911266
+          ],
+          [
+            2.276115,
+            48.91097
+          ],
+          [
+            2.276672,
+            48.910568
+          ],
+          [
+            2.277064,
+            48.910275
+          ],
+          [
+            2.277489,
+            48.909953
+          ],
+          [
+            2.277852,
+            48.909678
+          ],
+          [
+            2.278236,
+            48.909389
+          ],
+          [
+            2.278652,
+            48.909081
+          ],
+          [
+            2.279025,
+            48.908814
+          ],
+          [
+            2.27909,
+            48.908769
+          ],
+          [
+            2.27909,
+            48.908769
+          ],
+          [
+            2.279433,
+            48.90853
+          ],
+          [
+            2.279501,
+            48.908484
+          ],
+          [
+            2.279934,
+            48.908197
+          ],
+          [
+            2.279934,
+            48.908197
+          ],
+          [
+            2.279963,
+            48.908178
+          ],
+          [
+            2.280704,
+            48.907663
+          ],
+          [
+            2.280837,
+            48.907559
+          ],
+          [
+            2.281218,
+            48.907312
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ASN_1854-1855_G_1_F01",
+        "source_sheet": "ASN_1854-1855_G_1",
+        "epoch": "1854-1855",
+        "review_status": "proposed_merge",
+        "notes": "Tracé ferré repéré sur le plan.",
+        "original_id": "ASN_1854-1855_G_1_F01",
+        "source_sheets": [
+          "ASN_1854-1855_G_1"
+        ],
+        "fusion_status": "A VERIFIER - fusion de controle non validee",
+        "class": "chemin_de_fer",
+        "source_sections": [
+          "G"
+        ],
+        "source_ids": [
+          "ASN_1854-1855_G_1_F01"
+        ],
+        "stroke": "#34383A",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "modern_reference_id": "chemin_de_fer:5fe9e428-6667-11e3-81ff-01f464e0362d:0",
+        "modern_alignment_method": "auto_sncf_match",
+        "modern_alignment_status": "proposed_historical_continuity",
+        "event_id": "gare",
+        "source_epoch": "1854-1855",
+        "event_date": 1838,
+        "trace_status": "valide",
+        "provenance": "GeoJSON final 1854-1855 : géométrie ultérieure, non restitution exacte de 1838",
+        "event_overlay_validation": "valide_par_utilisateur"
+      },
+      "id": "ASN_1854-1855_G_1_F01"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.276168,
+            48.906858
+          ],
+          [
+            2.276321,
+            48.906862
+          ],
+          [
+            2.276729,
+            48.90687
+          ],
+          [
+            2.277143,
+            48.90687
+          ],
+          [
+            2.277641,
+            48.906859
+          ],
+          [
+            2.277992,
+            48.906847
+          ],
+          [
+            2.278409,
+            48.906823
+          ],
+          [
+            2.278728,
+            48.906799
+          ],
+          [
+            2.278847,
+            48.906788
+          ],
+          [
+            2.278847,
+            48.906788
+          ],
+          [
+            2.279025,
+            48.906771
+          ],
+          [
+            2.279606,
+            48.906695
+          ],
+          [
+            2.279606,
+            48.906695
+          ],
+          [
+            2.279615,
+            48.906693
+          ],
+          [
+            2.280096,
+            48.906619
+          ],
+          [
+            2.280529,
+            48.906544
+          ],
+          [
+            2.281118,
+            48.906431
+          ],
+          [
+            2.281304,
+            48.906392
+          ],
+          [
+            2.281476,
+            48.906348
+          ],
+          [
+            2.281737,
+            48.906272
+          ],
+          [
+            2.281889,
+            48.90622
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ASN_1854-1855_G_1_F02",
+        "source_sheet": "ASN_1854-1855_G_1",
+        "epoch": "1854-1855",
+        "review_status": "proposed_merge",
+        "notes": "Tracé ferré repéré sur le plan.",
+        "original_id": "ASN_1854-1855_G_1_F02",
+        "source_sheets": [
+          "ASN_1854-1855_G_1"
+        ],
+        "fusion_status": "A VERIFIER - fusion de controle non validee",
+        "class": "chemin_de_fer",
+        "source_sections": [
+          "G"
+        ],
+        "source_ids": [
+          "ASN_1854-1855_G_1_F02"
+        ],
+        "stroke": "#34383A",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "modern_reference_id": "chemin_de_fer:5ff6b19c-6667-11e3-81ff-01f464e0362d:0",
+        "modern_alignment_method": "auto_sncf_match",
+        "modern_alignment_status": "proposed_historical_continuity",
+        "event_id": "gare",
+        "source_epoch": "1854-1855",
+        "event_date": 1838,
+        "trace_status": "valide",
+        "provenance": "GeoJSON final 1854-1855 : géométrie ultérieure, non restitution exacte de 1838",
+        "event_overlay_validation": "valide_par_utilisateur"
+      },
+      "id": "ASN_1854-1855_G_1_F02"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.272213,
+            48.911971
+          ],
+          [
+            2.272275,
+            48.911949
+          ],
+          [
+            2.272406,
+            48.911901
+          ],
+          [
+            2.272583,
+            48.911828
+          ],
+          [
+            2.273108,
+            48.911608
+          ],
+          [
+            2.274021,
+            48.911182
+          ],
+          [
+            2.275602,
+            48.910465
+          ],
+          [
+            2.27657,
+            48.910027
+          ],
+          [
+            2.277389,
+            48.909642
+          ],
+          [
+            2.277818,
+            48.909422
+          ],
+          [
+            2.277967,
+            48.909341
+          ],
+          [
+            2.278079,
+            48.909276
+          ],
+          [
+            2.278315,
+            48.909143
+          ],
+          [
+            2.278409,
+            48.909089
+          ],
+          [
+            2.278523,
+            48.909023
+          ],
+          [
+            2.278791,
+            48.908862
+          ],
+          [
+            2.27905,
+            48.908696
+          ],
+          [
+            2.279323,
+            48.908509
+          ],
+          [
+            2.280825,
+            48.907566
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ASN_1854-1855_G_1_F03",
+        "source_sheet": "ASN_1854-1855_G_1",
+        "epoch": "1854-1855",
+        "review_status": "proposed_merge",
+        "notes": "Voie ferroviaire ; F03 remplace l’ancienne V02.",
+        "original_id": "ASN_1854-1855_G_1_F03",
+        "source_sheets": [
+          "ASN_1854-1855_G_1"
+        ],
+        "fusion_status": "A VERIFIER - fusion de controle non validee",
+        "class": "chemin_de_fer",
+        "source_sections": [
+          "G"
+        ],
+        "source_ids": [
+          "ASN_1854-1855_G_1_F03"
+        ],
+        "stroke": "#34383A",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "modern_reference_id": "chemin_de_fer:5fdc2a00-6667-11e3-81ff-01f464e0362d:0",
+        "modern_alignment_method": "auto_sncf_match",
+        "modern_alignment_status": "proposed_historical_continuity",
+        "event_id": "gare",
+        "source_epoch": "1854-1855",
+        "event_date": 1838,
+        "trace_status": "valide",
+        "provenance": "GeoJSON final 1854-1855 : géométrie ultérieure, non restitution exacte de 1838",
+        "event_overlay_validation": "valide_par_utilisateur"
+      },
+      "id": "ASN_1854-1855_G_1_F03"
+    }
+  ]
+}

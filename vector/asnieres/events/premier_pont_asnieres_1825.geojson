@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "premier_pont_asnieres_1825",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ASN_PONT_1825_SITE",
+      "properties": {
+        "id": "ASN_PONT_1825_SITE",
+        "classe": "event",
+        "year": 1825,
+        "date_precision": "vers 1825",
+        "event_id": "premier-pont-asnieres",
+        "title": "Premier pont routier d’Asnières entre Asnières et Clichy",
+        "geometry_role": "troncon_du_pont_d_apres_voirie_1835",
+        "geometry_warning": "Tronçon traversant la Seine, extrait par intersection de la voie V14 du cadastre de 1835 avec la Seine de ce même plan. Tracé indicatif de 1835 ; ne garantit ni le profil ni la largeur du pont construit vers 1825.",
+        "source_history": "https://pop.culture.gouv.fr/notice/merimee/IA00125206",
+        "source_location": "https://fr.wikipedia.org/wiki/Pont_d%27Asni%C3%A8res",
+        "source_epoch": "1835",
+        "source_geojson": "vector/asnieres/final/1835.geojson",
+        "source_feature_id": "ASN_1835_C:V14",
+        "source_sheet": "ASN_1835_C_2",
+        "source_geometry_method": "clip_voirie_V14_to_seine_1835",
+        "source_coordinates_crs": "EPSG:4326",
+        "event_stroke": "#7C7C7C"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.288072325,
+            48.904733184
+          ],
+          [
+            2.288633,
+            48.904249
+          ],
+          [
+            2.289145311,
+            48.903813233
+          ]
+        ]
+      }
+    }
+  ]
+}
