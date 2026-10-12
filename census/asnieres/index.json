@@ -1,20 +1,111 @@
 {
  "years": [
   {
+   "year": "1881",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1886",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1891",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1896",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1901",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1906",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1911",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
    "year": "1921",
    "epoch": "1931",
    "stats": {
-    "inconnue": 714,
-    "rue": 958,
-    "interpolée": 233,
-    "adresse": 1328,
-    "ambiguë": 2,
+    "inconnue": 850,
+    "rue": 642,
+    "interpolée": 270,
+    "adresse": 1470,
+    "ambiguë": 3,
     "unite": "ménage",
     "lignes": 3235,
-    "lignes_avec_batiment": 1400,
+    "lignes_avec_batiment": 1578,
     "personnes": 8459,
-    "personnes_avec_batiment": 3634,
-    "avec_batiment": 1400,
+    "personnes_avec_batiment": 4063,
+    "avec_batiment": 1578,
     "habitants": 3235
    }
   },
@@ -22,17 +113,17 @@
    "year": "1926",
    "epoch": "1931",
    "stats": {
-    "inconnue": 833,
-    "adresse": 1297,
-    "interpolée": 217,
-    "rue": 444,
-    "ambiguë": 1,
+    "inconnue": 813,
+    "adresse": 1341,
+    "interpolée": 282,
+    "rue": 354,
+    "ambiguë": 2,
     "unite": "ménage",
     "lignes": 2792,
-    "lignes_avec_batiment": 1363,
+    "lignes_avec_batiment": 1499,
     "personnes": 7139,
-    "personnes_avec_batiment": 3521,
-    "avec_batiment": 1363,
+    "personnes_avec_batiment": 3832,
+    "avec_batiment": 1499,
     "habitants": 2792
    }
   },
@@ -40,18 +131,44 @@
    "year": "1931",
    "epoch": "1931",
    "stats": {
-    "rue": 8162,
-    "adresse": 6479,
-    "inconnue": 5199,
-    "ambiguë": 134,
-    "interpolée": 1559,
+    "rue": 9652,
+    "adresse": 21161,
+    "inconnue": 11141,
+    "interpolée": 5130,
+    "ambiguë": 413,
     "unite": "personne",
-    "lignes": 21533,
-    "lignes_avec_batiment": 7266,
-    "personnes": 21533,
-    "personnes_avec_batiment": 7266,
-    "avec_batiment": 7266,
-    "habitants": 21533
+    "lignes": 47497,
+    "lignes_avec_batiment": 23860,
+    "personnes": 47497,
+    "personnes_avec_batiment": 23860,
+    "avec_batiment": 23860,
+    "habitants": 47497
+   }
+  },
+  {
+   "year": "1936",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
+   }
+  },
+  {
+   "year": "1946",
+   "epoch": "1931",
+   "stats": {
+    "unite": "personne",
+    "lignes": 0,
+    "lignes_avec_batiment": 0,
+    "personnes": 0,
+    "personnes_avec_batiment": 0,
+    "avec_batiment": 0,
+    "habitants": 0
    }
   }
  ]
