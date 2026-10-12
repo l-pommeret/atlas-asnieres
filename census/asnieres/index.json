@@ -26,8 +26,8 @@
    "stats": {
     "inconnue": 828,
     "ambiguë": 25,
-    "adresse": 1186,
-    "interpolée": 304,
+    "adresse": 1223,
+    "interpolée": 267,
     "rue": 337,
     "hors rue": 80,
     "capacité": 32,
@@ -44,20 +44,20 @@
    "year": "1931",
    "epoch": "1931",
    "stats": {
-    "rue": 10361,
-    "ambiguë": 742,
-    "interpolée": 4536,
-    "adresse": 20839,
-    "inconnue": 15201,
-    "hors rue": 2745,
+    "rue": 10398,
+    "ambiguë": 748,
+    "interpolée": 4542,
+    "adresse": 21330,
+    "inconnue": 15227,
+    "hors rue": 2779,
     "capacité": 1399,
     "unite": "personne",
-    "lignes": 55823,
-    "lignes_avec_batiment": 25375,
-    "personnes": 55823,
-    "personnes_avec_batiment": 25375,
-    "avec_batiment": 25375,
-    "habitants": 55823
+    "lignes": 56423,
+    "lignes_avec_batiment": 25872,
+    "personnes": 56423,
+    "personnes_avec_batiment": 25872,
+    "avec_batiment": 25872,
+    "habitants": 56423
    }
   }
  ]
