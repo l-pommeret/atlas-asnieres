@@ -7,14 +7,14 @@
     "inconnue": 850,
     "rue": 640,
     "interpolée": 266,
-    "adresse": 1472,
-    "ambiguë": 7,
+    "adresse": 1469,
+    "ambiguë": 10,
     "unite": "ménage",
     "lignes": 3235,
-    "lignes_avec_batiment": 1575,
+    "lignes_avec_batiment": 1721,
     "personnes": 8459,
-    "personnes_avec_batiment": 4052,
-    "avec_batiment": 1575,
+    "personnes_avec_batiment": 4443,
+    "avec_batiment": 1721,
     "habitants": 3235
    }
   },
@@ -23,16 +23,16 @@
    "epoch": "1931",
    "stats": {
     "inconnue": 828,
-    "adresse": 1306,
-    "interpolée": 318,
+    "adresse": 1301,
+    "interpolée": 317,
     "rue": 337,
-    "ambiguë": 3,
+    "ambiguë": 9,
     "unite": "ménage",
     "lignes": 2792,
-    "lignes_avec_batiment": 1500,
+    "lignes_avec_batiment": 1618,
     "personnes": 7139,
-    "personnes_avec_batiment": 3835,
-    "avec_batiment": 1500,
+    "personnes_avec_batiment": 4144,
+    "avec_batiment": 1618,
     "habitants": 2792
    }
   },
@@ -40,18 +40,19 @@
    "year": "1931",
    "epoch": "1931",
    "stats": {
-    "rue": 10093,
-    "adresse": 23623,
-    "inconnue": 14612,
-    "interpolée": 5258,
-    "ambiguë": 461,
+    "rue": 10358,
+    "ambiguë": 673,
+    "interpolée": 5193,
+    "adresse": 23472,
+    "inconnue": 14999,
+    "capacité": 444,
     "unite": "personne",
-    "lignes": 54047,
-    "lignes_avec_batiment": 26163,
-    "personnes": 54047,
-    "personnes_avec_batiment": 26163,
-    "avec_batiment": 26163,
-    "habitants": 54047
+    "lignes": 55139,
+    "lignes_avec_batiment": 28316,
+    "personnes": 55139,
+    "personnes_avec_batiment": 28316,
+    "avec_batiment": 28316,
+    "habitants": 55139
    }
   }
  ]
