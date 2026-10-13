@@ -1,0 +1,54 @@
+{
+ "1854-1855": {
+  "tiles": "tiles/asnieres/1854-1855/{z}/{x}/{y}.webp",
+  "minzoom": 12,
+  "maxzoom": 19,
+  "bounds": [
+   2.262986,
+   48.900286,
+   2.324015,
+   48.935836
+  ],
+  "tileSize": 256,
+  "source": "Archives départementales des Hauts-de-Seine"
+ },
+ "1812": {
+  "tiles": "tiles/asnieres/1812/{z}/{x}/{y}.webp",
+  "minzoom": 12,
+  "maxzoom": 19,
+  "bounds": [
+   2.262986,
+   48.900286,
+   2.324015,
+   48.935836
+  ],
+  "tileSize": 256,
+  "source": "Archives départementales des Hauts-de-Seine"
+ },
+ "1835": {
+  "tiles": "tiles/asnieres/1835/{z}/{x}/{y}.webp",
+  "minzoom": 12,
+  "maxzoom": 19,
+  "bounds": [
+   2.262986,
+   48.900286,
+   2.324015,
+   48.935836
+  ],
+  "tileSize": 256,
+  "source": "Archives départementales des Hauts-de-Seine"
+ },
+ "1931": {
+  "tiles": "tiles/asnieres/1931/{z}/{x}/{y}.webp",
+  "minzoom": 12,
+  "maxzoom": 19,
+  "bounds": [
+   2.262986,
+   48.900286,
+   2.324015,
+   48.935836
+  ],
+  "tileSize": 256,
+  "source": "Archives départementales des Hauts-de-Seine"
+ }
+}
