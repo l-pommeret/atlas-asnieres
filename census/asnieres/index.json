@@ -44,20 +44,20 @@
    "year": "1931",
    "epoch": "1931",
    "stats": {
-    "rue": 10433,
-    "ambiguë": 833,
-    "interpolée": 4550,
-    "adresse": 21591,
-    "inconnue": 16149,
-    "hors rue": 2806,
-    "capacité": 1399,
+    "rue": 10830,
+    "ambiguë": 1018,
+    "interpolée": 4913,
+    "adresse": 24314,
+    "inconnue": 17673,
+    "hors rue": 3298,
+    "capacité": 1934,
     "unite": "personne",
-    "lignes": 57761,
-    "lignes_avec_batiment": 26141,
-    "personnes": 57761,
-    "personnes_avec_batiment": 26141,
-    "avec_batiment": 26141,
-    "habitants": 57761
+    "lignes": 63980,
+    "lignes_avec_batiment": 29227,
+    "personnes": 63980,
+    "personnes_avec_batiment": 29227,
+    "avec_batiment": 29227,
+    "habitants": 63980
    }
   }
  ]
